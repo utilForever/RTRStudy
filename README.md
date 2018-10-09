@@ -27,7 +27,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 2: The Graphics Rendering Pipeline
 
-- Presentation Slides: [PPTX](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pptx) [PDF](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pdf)
+- Presentation Slides: [[PPTX](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pptx)], [[PDF](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pdf)]
     - Architecture
     - The Application Stage
     - Geometry Processing
