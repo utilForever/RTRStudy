@@ -4,20 +4,15 @@
 
 ## The Book
 
-Thoroughly updated, this fourth edition focuses on modern techniques used to generate synthetic three-dimensional images in a fraction of a second. With the advent of programmable shaders, a wide variety of new algorithms have arisen and evolved over the past few years. This edition discusses current, practical rendering methods used in games and other applications. It also presents a solid theoretical framework and relevant mathematics for the field of interactive computer graphics, all in an approachable style. <b>New to this edition:</b> new chapter on VR and AR as well as expanded coverage of Visual Appearance, Advanced Shading, Global Illumination, and Curves and Curved Surfaces.
+Thoroughly updated, this fourth edition focuses on modern techniques used to generate synthetic three-dimensional images in a fraction of a second. With the advent of programmable shaders, a wide variety of new algorithms have arisen and evolved over the past few years. This edition discusses current, practical rendering methods used in games and other applications. It also presents a solid theoretical framework and relevant mathematics for the field of interactive computer graphics, all in an approachable style.
 
 ## Presenter
 
-- Chris Ohk
-- HyunJun Park
-- Johnson Kang
-- Kyowon Yang
-- Macht Sung
-- MinHyeok Jeon
+TBD
 
 ## Contents (Presentation Slides - Korean)
 
-<img align="right" src="http://www.realtimerendering.com/rtr4_thumb.jpg">
+<img align="right" src="./book_cover.jpg" width="464" height="600">
 
 ### Chapter 1: Introduction
 
@@ -27,7 +22,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 2: The Graphics Rendering Pipeline
 
-- Presentation Slides: [[PPTX](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pptx)], [[PDF](https://github.com/utilForever/RTRStudy/blob/master/Presentations/Real-time%20rendering%20-%20Chapter%202.pdf)]
+- Presentation Slides: TBA
     - Architecture
     - The Application Stage
     - Geometry Processing
