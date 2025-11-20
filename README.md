@@ -8,11 +8,22 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ## Presenter
 
-TBD
+- Chris Ohk
+- Andrew Moon
+- Donghyeon Yeo
+- Haeul Kim
+- Hyeok Kwon
+- Jonghwan Seo
+- Janghyun Choi
+- Sijun Seong
+- Sohyeon Ju
+- Taewoo Lee
+- Wongyu Ko
+- Yuhan Park
 
 ## Contents (Presentation Slides - Korean)
 
-<img align="right" src="./book_cover.jpg" width="464" height="600">
+<img align="right" src="./book_cover.jpg" width="232" height="300">
 
 ### Chapter 1: Introduction
 
