@@ -33,7 +33,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 2: The Graphics Rendering Pipeline
 
-- Presentation Slides: TBA
+- Presenter: Sijun Seong [Presentation](./1%20-%20Presentation/251122%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%202,%203.pdf)
     - Architecture
     - The Application Stage
     - Geometry Processing
@@ -43,7 +43,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 3: The Graphics Processing Unit
 
-- Presentation Slides: TBA
+- Presenter: Sijun Seong [Presentation](./1%20-%20Presentation/251122%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%202,%203.pdf)
     - Data-Parallel Architectures
     - GPU Pipeline Overview
     - The Programmable Shader Stage
