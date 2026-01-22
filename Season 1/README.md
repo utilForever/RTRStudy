@@ -68,7 +68,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 5: Shading Basics
 
-- Presentation Slides: TBA
+- Presenter: Hyeok Kwon [[Presentation]](./1%20-%20Presentation/260122%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%205.pdf)
     - Shading Models
     - Light Sources
     - Implementing Shading Models
