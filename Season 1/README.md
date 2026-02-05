@@ -16,7 +16,6 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 - Jonghwan Seo
 - Janghyun Choi
 - Sijun Seong
-- Sohyeon Ju
 - Taewoo Lee
 - Wongyu Ko
 - Yuhan Park
