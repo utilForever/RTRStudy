@@ -77,7 +77,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 6: Texturing
 
-- Presentation Slides: TBA
+- Presenter: Janghyun Choi
     - The Texturing Pipeline
     - Image Texturing
     - Procedural Texturing
