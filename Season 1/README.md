@@ -90,7 +90,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 7: Shadows
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Planar Shadows
     - Shadows on Curved Surfaces
     - Shadow Volumes
@@ -104,13 +104,13 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 8: Light and Color
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Light Quantities
     - Scene to Screen
 
 ### Chapter 9: Physically Based Shading
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Physics of Light
     - The Camera
     - The BRDF
@@ -127,7 +127,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 10: Local Illumination
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Area Light Sources
     - Environment Lighting
     - Spherical and Hemispherical Functions
@@ -138,7 +138,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 11: Global Illumination
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - The Rendering Equation
     - General Global Illumination
     - Ambient Occlusion
@@ -149,7 +149,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 12: Image-Space Effects
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Image Processing
     - Reprojection Techniques
     - Lens Flare and Bloom
@@ -158,7 +158,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 13: Beyond Polygons
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - The Rendering Spectrum
     - Fixed-View Effects
     - Skyboxes
@@ -172,7 +172,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 14: Volumetric and Translucency Rendering
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Light Scattering Theory
     - Specialized Volumetric Rendering
     - General Volumetric Rendering
@@ -184,7 +184,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 15: Non-Photorealistic Rendering
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Toon Shading
     - Outline Rendering
     - Stroke Surface Stylization
@@ -193,7 +193,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 16: Polygonal Techniques
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Sources of Three-Dimensional Data
     - Tessellation and Triangulation
     - Consolidation
@@ -203,7 +203,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 17: Curves and Curved Surfaces
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Parametric Curves
     - Parametric Curved Surfaces
     - Implicit Surfaces
@@ -213,7 +213,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 18: Pipeline Optimization
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Profiling and Debugging Tools
     - Locating the Bottleneck
     - Performance Measurements
@@ -222,7 +222,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 19: Acceleration Algorithms
 
-- Presentation Slides: TBA
+- Presenter: TBA
     -  Spatial Data Structures
     -  Culling Techniques
     -  Backface Culling
@@ -236,7 +236,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 20: Efficient Shading
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Deferred Shading
     - Decal Rendering
     - Tiled Shading
@@ -246,7 +246,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 21: Virtual and Argumented Reality
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Equipment and Systems Overview
     - Physical Elements
     - APIs and Hardware
@@ -254,7 +254,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 22: Intersection Test Methods
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - GPU-Accelerated Picking
     - Definitions and Tools
     - Bounding Volume Creation
@@ -274,7 +274,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 23: Graphics Hardware
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Rasterization
     - Massive Compute and Scheduling
     - Latency and Occupancy
@@ -295,7 +295,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### [Chapter 25: Collision Detection](http://www.realtimerendering.com/Real-Time_Rendering_4th-Collision_Detection.pdf)
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Broad Phase Collision Detection
     - Mid Phase Collision Detection
     - Narrow Phase Collision Detection
@@ -310,7 +310,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### [Chapter 26: Real-Time Ray Tracing](http://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf)
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Broad Phase Collision Detection
     - Shaders for Ray Tracing
     - Top and Bottom Level Acceleration Structures
@@ -321,7 +321,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### [Linear Algebra](http://www.realtimerendering.com/Real-Time_Rendering_4th-Appendices.pdf)
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Euclidean Space
     - Geometrical Interpretation
     - Matrices
@@ -330,6 +330,6 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### [Trigonometry](http://www.realtimerendering.com/Real-Time_Rendering_4th-Appendices.pdf)
 
-- Presentation Slides: TBA
+- Presenter: TBA
     - Definitions
     - Trigonometric Laws and Formulae
