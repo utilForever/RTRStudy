@@ -77,7 +77,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 6: Texturing
 
-- Presenter: Janghyun Choi
+- Presenter: Janghyun Choi [[Presentation]](./1%20-%20Presentation/260228%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%206.pdf)
     - The Texturing Pipeline
     - Image Texturing
     - Procedural Texturing
