@@ -104,7 +104,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 8: Light and Color
 
-- Presenter: TBA
+- Presenter: Donghyeon Yeo [[Presentation]](./1%20-%20Presentation/260314%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%208.pdf)
     - Light Quantities
     - Scene to Screen
 
