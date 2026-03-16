@@ -90,7 +90,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 7: Shadows
 
-- Presenter: TBA
+- Presenter: Haeul Kim [[Presentation]](./1%20-%20Presentation/260314%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%207.pdf)
     - Planar Shadows
     - Shadows on Curved Surfaces
     - Shadow Volumes
