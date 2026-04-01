@@ -110,7 +110,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 9: Physically Based Shading
 
-- Presenter: TBA
+- Presenter: Chris Ohk
     - Physics of Light
     - The Camera
     - The BRDF
@@ -127,7 +127,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 10: Local Illumination
 
-- Presenter: TBA
+- Presenter: Sijun Seong
     - Area Light Sources
     - Environment Lighting
     - Spherical and Hemispherical Functions
@@ -138,7 +138,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 11: Global Illumination
 
-- Presenter: TBA
+- Presenter: Yuhan Park
     - The Rendering Equation
     - General Global Illumination
     - Ambient Occlusion
