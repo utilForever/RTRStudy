@@ -138,7 +138,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 11: Global Illumination
 
-- Presenter: Yuhan Park
+- Presenter: Yuhan Park [[Presentation]](./1%20-%20Presentation/260822%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%2011.pdf)
   - The Rendering Equation
   - General Global Illumination
   - Ambient Occlusion
